@@ -5,6 +5,3 @@ function hello(){
 	console.log(word);
 }
 
-function add(){
-	const name="Josue"
-}
